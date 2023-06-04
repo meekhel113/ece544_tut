@@ -1,0 +1,20 @@
+[2022/04/19-14:22:04]--Environment: Mesh on.
+[2022/04/19-14:22:05]--
+                       ****Summary : Signal Net Statistics for the Design*****
+                        Total number of small shapes :  0
+                        Total number of large shapes :  0
+                        Total number of traces buried under traces :  0
+                        Total number of traces buried under pads :  0
+                        Total number of traces overlapping along length :  0
+                        Total number of traces aligned along length :  0
+                        Total number of traces with no reference :  0
+[2022/04/19-14:22:05]--
+                       WARNING [Open Net]: Net +1_5V contains two or more disconnected sections.
+                       WARNING [Open Net]: Net GND contains two or more disconnected sections.
+                       ****Summary: Miscellaneous check, Error(s) = 0, Warning(s) = 2
+[2022/04/19-14:22:05]--
+                       ****Summary: Variables checks, Error(s) = 0, Warning(s) = 0
+[2022/04/19-14:22:05]--
+                       0 error(s) 2 warning(s) found in SPD file "Viper_PDN_EMI.spd"
+                       
+                       

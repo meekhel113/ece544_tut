@@ -1,0 +1,216 @@
+[Workspace Name] /afs/unity.ncsu.edu/users/m/mapatel3/Documents/544/patel_test1.pdcx
+[Layout File Name] /afs/unity.ncsu.edu/users/m/mapatel3/Documents/544/Viper_PDN_EMI.spd
+[Computer Name] lib-39167.eos.ncsu.edu
+[Product Name] PowerDC
+[Version Number] 18.0.4.05011.160686   004
+[Created Time] Tue Apr 19 15:03:09 2022
+[Memory Usage] 319K
+
+[Shape Processing] 2.037012s
+[Memory Usage] 321K
+
+[Backup] 0.141019 s
+
+[Initialization]
+[Time] 2.200072s
+[Memory Usage] 323K
+[Peak Memory] 2935992K
+[TreatPadAsShape] 2
+[TreatPadLinkToCktAsShape] 0
+[TreatPadLargeAreaAsShape] 0
+[PadAreaThreshold] 0.000000
+[MaxMeshEdgeLength] 0.012160
+
+[Geometry Processing]
+[Geometry Processing Time] 3.069404s
+[Memory Usage] 343K
+[Peak Memory] 2935992K
+
+[Mesh Generation]
+[Mesh Generation Time] 16.491859s
+[Memory Usage] 602K
+[Peak Memory] 3594948K
+
+[Layer Name] Signal$BOTTOM
+[Original Node Count] 12091
+[Package Node Count] 4630
+[Polygong Count] 1033
+[On Plane Via Count] 1797
+[Triangle Count] 93111
+[FEM Node Count] 64929
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$PWR_17
+[Original Node Count] 884
+[Package Node Count] 402
+[Polygong Count] 2585
+[On Plane Via Count] 320
+[Triangle Count] 228693
+[FEM Node Count] 139002
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$SIG_16V
+[Original Node Count] 4643
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$SIG_15V
+[Original Node Count] 23822
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$GND_14
+[Original Node Count] 4323
+[Package Node Count] 4323
+[Polygong Count] 5594
+[On Plane Via Count] 3235
+[Triangle Count] 544167
+[FEM Node Count] 328756
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$SIG_13V
+[Original Node Count] 8894
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$SIG_12H
+[Original Node Count] 7880
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Plane$GND_11
+[Original Node Count] 0
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$PWR_10
+[Original Node Count] 372
+[Package Node Count] 6
+[Polygong Count] 172
+[On Plane Via Count] 6
+[Triangle Count] 12602
+[FEM Node Count] 7810
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$GND_9
+[Original Node Count] 23
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$PWR_8
+[Original Node Count] 2213
+[Package Node Count] 543
+[Polygong Count] 1221
+[On Plane Via Count] 89
+[Triangle Count] 109410
+[FEM Node Count] 64820
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$SIG_7V
+[Original Node Count] 5086
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$SIG_6H
+[Original Node Count] 5312
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$PWR_5
+[Original Node Count] 971
+[Package Node Count] 0
+[Polygong Count] 0
+[On Plane Via Count] 0
+[Triangle Count] 0
+[FEM Node Count] 0
+[Maximum Mesh Length] inf
+
+[Layer Name] Signal$SIG_4V
+[Original Node Count] 11232
+[Package Node Count] 34
+[Polygong Count] 1
+[On Plane Via Count] 34
+[Triangle Count] 1416
+[FEM Node Count] 840
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$SIG_3H
+[Original Node Count] 10004
+[Package Node Count] 39
+[Polygong Count] 7
+[On Plane Via Count] 39
+[Triangle Count] 2313
+[FEM Node Count] 1401
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$GND_2
+[Original Node Count] 4777
+[Package Node Count] 4777
+[Polygong Count] 6917
+[On Plane Via Count] 3689
+[Triangle Count] 671829
+[FEM Node Count] 404609
+[Maximum Mesh Length] 0.012160
+
+[Layer Name] Signal$TOP
+[Original Node Count] 19646
+[Package Node Count] 7076
+[Polygong Count] 1391
+[On Plane Via Count] 1687
+[Triangle Count] 127236
+[FEM Node Count] 92135
+[Maximum Mesh Length] 0.012160
+
+[Arrange FEM Information]
+[Time] 0.099111s
+[Memory Usage] 602K
+[Peak Memory] 3594948K
+
+[Number of Total Unknowns in the Sparse Matrix Equation] 1031985
+[Number of Nonzeros in the Sparse Matrix Equation] 3793148
+[Number of Nports / Nrhs in the Sparse Matrix Equation]  1
+[Simulation Time]  12.178609s
+[Solver]  PdcSolver.2
+
+[Voltage Drop Analysis]
+[Time] 18.525901s
+[Memory Usage] 610K
+[Peak Memory] 3594948K
+
+[Total Simulation Time] 42.416306s
+
+[Calculate ShapeCurrent] 0.000033s
+[Post-processing Time] 0.664424s
+[Calculate Power Loss]		4.609639s

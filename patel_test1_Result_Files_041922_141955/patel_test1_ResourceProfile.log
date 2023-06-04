@@ -1,0 +1,30 @@
+[Workspace Name] /afs/unity.ncsu.edu/users/m/mapatel3/Documents/544/patel_test1.pdcx
+[Layout File Name] /afs/unity.ncsu.edu/users/m/mapatel3/Documents/544/Viper_PDN_EMI.brd
+[Computer Name] lib-39167.eos.ncsu.edu
+[Product Name] PowerDC
+[Version Number] 18.0.4.05011.160686   004
+[Created Time] Tue Apr 19 14:19:55 2022
+[Memory Usage] 124K
+
+[Shape Processing] 1.730343s
+[Memory Usage] 127K
+
+[Backup] 0.169409 s
+
+[Initialization]
+[Time] 1.919116s
+[Memory Usage] 130K
+[Peak Memory] 535580K
+[TreatPadAsShape] 2
+[TreatPadLinkToCktAsShape] 0
+[TreatPadLargeAreaAsShape] 0
+[PadAreaThreshold] 0.000000
+[MaxMeshEdgeLength] 0.012160
+
+[Geometry Processing]
+[Geometry Processing Time] 3.074002s
+[Memory Usage] 155K
+[Peak Memory] 636156K
+
+Cannot complete the simulation due to insufficient memory on your system. Close some programs to clear space	and then run the simulation.
+

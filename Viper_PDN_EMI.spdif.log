@@ -1,0 +1,23 @@
+BRDExtractor Version 11.1.4
+From file : /afs/unity.ncsu.edu/users/m/mapatel3/Documents/544/Viper_PDN_EMI.brd
+To file : /afs/unity.ncsu.edu/users/m/mapatel3/Documents/544/Viper_PDN_EMI.spd
+Tuesday  April 19  14:13:10  2022
+
+Nets Translated : 
+	All nets are selected
+
+Settings :
+	Translate power layer to : Plane or Signal
+	Not Remove Component Value
+	Include elements with no net names
+	Translate component outline
+	Not Drill_Slot symbol plating
+	Remove Unused Pads
+	Not Translate only voltage nets
+	Not treat pad on dielectric layer as drill
+	Not Include Outline
+	Not Create VIA if Zero Drill
+	Not Metal Layer As Plating Thickness
+	Enable discrete components
+	Translate netgroup : 2
+	Maximum arc length replaced by line segment 0.200000 mm
